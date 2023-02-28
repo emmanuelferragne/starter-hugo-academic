@@ -70,6 +70,3 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
 +++
-{{% alert note %}}
-This article is in French.
-{{% /alert %}}
