@@ -27,8 +27,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Université Paris Cité
+    url: https://u-paris.fr/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -44,7 +44,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Ferragne
-role: Professor of Artificial Intelligence
+role: Professor of Phonetics
 highlight_name: true
 title: Emmanuel Ferragne
 first_name: Emmanuel
