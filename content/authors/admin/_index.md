@@ -44,13 +44,13 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Ferragne
 role: Professor of Artificial Intelligence
 highlight_name: true
 title: Emmanuel Ferragne
-first_name: Alice
-email: ""
+first_name: Emmanuel
+email: "emmanuel.ferragne@u-paris.fr"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a professor of phonetics at Université Paris Cité.
 {style="text-align: justify;"}
