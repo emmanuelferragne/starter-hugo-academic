@@ -1,14 +1,13 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: professor of phonetics at Université Paris Cité since 2022. 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sociophonetics
+  - Forensic phonetics
+  - Learners' pronunciation
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:emmanuel.ferragne@u-paris.fr
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
