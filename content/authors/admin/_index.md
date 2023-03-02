@@ -20,6 +20,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/emmanuelferragne
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Emmanuel-Ferragne
 organizations:
   - name: Université Paris Cité
     url: https://u-paris.fr/
