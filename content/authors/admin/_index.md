@@ -35,6 +35,12 @@ social:
 organizations:
   - name: Université Paris Cité
     url: https://u-paris.fr/
+  - name: Institut Universitaire de France (IUF)
+    url: https://www.iufrance.fr/les-membres-de-liuf/membre/389-emmanuel-ferragne.html
+  - name: Laboratoire CLILLAC-ARP
+    url: https://u-paris.fr/eila/en/clillac-arp-en/
+  - name: Labex Empirical Foundations of Linguistics (EFL)
+    url: https://en.labex-efl.fr/
 education:
   courses:
     - course: PhD in Artificial Intelligence
