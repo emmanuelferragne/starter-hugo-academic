@@ -1,7 +1,7 @@
 ---
 bio: professor of phonetics at Université Paris Cité since 2022. 
 interests:
-  - Sociophonetics
+  - Sociophonetics/Neurophonetics
   - Forensic phonetics
   - Learners' pronunciation
 social:
@@ -10,19 +10,19 @@ social:
     link: mailto:emmanuel.ferragne@u-paris.fr
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/fonetics_n_more
+    label: Our phonetics team's account
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.fr/citations?user=UFTn7ckAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/emmanuelferragne
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
