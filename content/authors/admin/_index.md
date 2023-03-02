@@ -1,5 +1,5 @@
 ---
-bio: professor of phonetics at Université Paris Cité since 2022. 
+bio: 
 interests:
   - Sociophonetics/Neurophonetics
   - Forensic phonetics
