@@ -62,6 +62,3 @@ title: Emmanuel Ferragne
 first_name: Emmanuel
 email: "emmanuel.ferragne@u-paris.fr"
 ---
-
-I'm a professor of phonetics at Université Paris Cité.
-{style="text-align: justify;"}
