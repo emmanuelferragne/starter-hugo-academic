@@ -23,9 +23,18 @@ social:
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
+  - icon = "academia"
+    icon_pack = "ai"
+    link = "https://univ-paris-diderot.academia.edu/EmmanuelFerragne"
+  - icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Emmanuel_Ferragne"
+  - icon = "youtube"
+    icon_pack = "fab"
+    link = "https://www.youtube.com/channel/UCSvDv4xXiPzYN2np_i3FyVA?view_as=subscriber"
 organizations:
   - name: Université Paris Cité
     url: https://u-paris.fr/
