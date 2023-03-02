@@ -23,6 +23,15 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Emmanuel-Ferragne
+  - icon: academia
+    icon_pack: ai
+    link: https://u-paris.academia.edu/EmmanuelFerragne
+  - icon: youtube
+  - icon_pack: fab
+    link: https://www.youtube.com/@phoneticsandmore6331
+    label: Phonetics team's channel
+    display:
+      header: true
 organizations:
   - name: Université Paris Cité
     url: https://u-paris.fr/
