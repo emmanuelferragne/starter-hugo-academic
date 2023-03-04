@@ -56,8 +56,8 @@ organizations:
 #      institution: Massachusetts Institute of Technology
 #      year: 2008
 superuser: true
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 last_name: Ferragne
 role: Professor of Phonetics
 highlight_name: true
