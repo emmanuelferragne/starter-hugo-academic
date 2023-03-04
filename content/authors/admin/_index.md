@@ -64,4 +64,5 @@ highlight_name: true
 title: Emmanuel Ferragne
 first_name: Emmanuel
 email: "emmanuel.ferragne@u-paris.fr"
+view: showcase
 ---
