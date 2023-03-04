@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: uparis
-  theme_night: uparis
+  theme_night: minimal
   font: minimal
   font_size: L
 
