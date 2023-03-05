@@ -14,7 +14,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/fonetics_n_more
-    label: Our phonetics team's account
+    label: Our phonetics team's Twitter account
     display:
       header: true
   - icon: graduation-cap
