@@ -1,6 +1,5 @@
 ---
-bio: 
-blablabla
+bio:
 interests:
   - Sociophonetics/Neurophonetics
   - Forensic phonetics
