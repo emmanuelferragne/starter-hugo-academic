@@ -55,11 +55,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: collection
     id: posts
     content:
@@ -120,4 +115,9 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
 ---
