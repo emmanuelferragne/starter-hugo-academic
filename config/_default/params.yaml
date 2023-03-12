@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: coffee
+  theme_day: upcite
   theme_night: minimal
   font: minimal
   font_size: L
@@ -73,7 +73,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   comment:
     provider: ''
     disqus:
