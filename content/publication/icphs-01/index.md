@@ -1,6 +1,6 @@
 +++
 title = "Towards phonetic interpretability in deep learning applied to voice comparison"
-date = 2019-05-17T00:00:00
+publishDate = 2019-05-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
