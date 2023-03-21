@@ -2,7 +2,7 @@
 title = "Genealogy meets computer vision"
 subtitle = "How I interactively tag old family pictures."
 
-date = 2019-02-27T00:00:00
+publishDate = 2019-02-27T00:00:00
 lastmod = 2019-02-27T00:00:00
 draft = false
 
