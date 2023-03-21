@@ -1,11 +1,11 @@
 +++
 title = "RP or GA? French students' accents are drifting in the Atlantic"
-date = 2023-02-15T00:00:00  # Schedule page publish date.
+publishDate = 2023-02-15T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2023-04-14T15:45:00
+date = 2023-04-14T15:45:00
 #time_end = 2019-06-05T15:18:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
