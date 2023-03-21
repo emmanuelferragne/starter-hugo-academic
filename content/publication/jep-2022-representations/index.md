@@ -1,6 +1,6 @@
 +++
 title = "Représentations de l’expertise vocale dans les séries policières : quand la fiction s’invite dans les enquêtes et au tribunal"
-date = 2022-06-14T00:00:00
+publishDate = 2022-06-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
