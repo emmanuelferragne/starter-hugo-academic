@@ -3,7 +3,7 @@
 title = "ROCme!"
 
 # Date this page was created.
-date = 2019-01-15T00:00:00
+publishDate = 2019-01-15T00:00:00
 
 # Project summary to display on homepage.
 summary = "A super useful software program to record `speech corpora`."
