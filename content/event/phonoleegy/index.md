@@ -1,11 +1,11 @@
 +++
 title = "The N400 as a sociophonetic marker "
-date = 2020-01-19T00:00:00  # Schedule page publish date.
+publishDate = 2020-01-19T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-10-01T13:00:00
+date = 2020-10-01T13:00:00
 time_end = 2020-10-02T14:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
