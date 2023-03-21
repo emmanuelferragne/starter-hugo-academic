@@ -2,7 +2,7 @@
 title = "The CSI effect"
 subtitle = "On the perception of forensic science."
 
-date = 2019-09-25T00:00:00
+publishDate = 2019-09-25T00:00:00
 lastmod = 2019-09-25T00:00:00
 draft = false
 
