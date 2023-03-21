@@ -1,6 +1,6 @@
 +++
 title = "The sociophonetics of British heavy metal music: T Voicing and the FOOT-STRUT split"
-date = 2019-05-17T00:00:00
+publishDate = 2019-05-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
