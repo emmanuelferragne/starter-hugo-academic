@@ -3,7 +3,7 @@ title = "Don't stop him now!"
 subtitle = "Ohbot sings Queen song"
 math = true
 
-date = 2021-09-30T00:00:00
+publishDate = 2021-09-30T00:00:00
 lastmod = 2021-09-30T00:00:00
 draft = false
 
