@@ -1,6 +1,6 @@
 +++
 title = "The influence of body posture on the acoustic parameters of speech"
-date = 2018-06-07T00:00:00
+publishDate = 2018-06-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
