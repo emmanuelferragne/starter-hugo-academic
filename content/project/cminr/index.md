@@ -3,7 +3,7 @@
 title = "CminR Praatik"
 
 # Date this page was created.
-date = 2019-02-02T00:00:00
+publishDate = 2019-02-02T00:00:00
 
 # Project summary to display on homepage.
 summary = "`Praat` and `R` code for a doctoral seminar I teach at Université Paris Diderot."
