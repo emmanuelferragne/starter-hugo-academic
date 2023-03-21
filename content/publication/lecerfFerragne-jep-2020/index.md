@@ -1,6 +1,6 @@
 +++
 title = "Paramètres acoustiques et phonétiques dans la parole parkinsonienne avant et après traitement LSVT LOUD®"
-date = 2020-06-06T02:00:00
+publishDate = 2020-06-06T02:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
