@@ -1,6 +1,6 @@
 ﻿+++
 title = "A combined forced-attention dichotic listening - Go/Nogo task to assess response inhibition and interference suppression: An auditory event-related potential investigation"
-date = 2019-08-12T00:00:00
+publishDate = 2019-08-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
