@@ -3,7 +3,7 @@
 title = "SEPALE"
 
 # Date this page was created.
-date = 2020-12-04T00:00:00
+publishDate = 2020-12-04T00:00:00
 
 # Project summary to display on homepage.
 summary = "Solutions pour l’Enseignement de la Phonétique Appliquée aux Langues Étrangères"
