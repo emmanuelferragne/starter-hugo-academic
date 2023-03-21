@@ -1,6 +1,6 @@
 +++
 title = "Automatic classification of phonation types in spontaneous speech: towards a new workflow for the characterization of speakers' voice quality"
-date = 2021-08-11T00:00:00  # Schedule page publish date.
+publishDate = 2021-08-11T00:00:00  # Schedule page publish date.
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
