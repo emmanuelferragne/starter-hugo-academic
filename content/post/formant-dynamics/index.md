@@ -2,7 +2,7 @@
 title = "Formant dynamics analysis: a worked example"
 subtitle = "Tutorial"
 
-date = 2020-09-25T00:00:00
+publishDate = 2020-09-25T00:00:00
 lastmod = 2020-09-25T00:00:00
 draft = false
 
