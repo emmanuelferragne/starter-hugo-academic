@@ -2,7 +2,7 @@
 title = "Because I got high #2"
 subtitle = "On the G5 in Jesus Christ Superstar's Gethsemane"
 
-date = 2020-05-14T00:00:00
+publishDate = 2020-05-14T00:00:00
 lastmod = 2020-05-14T00:00:00
 draft = false
 
