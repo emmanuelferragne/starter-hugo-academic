@@ -1,11 +1,11 @@
 +++
 title = "Voix et preuve scientifique dans les séries policières : le projet VoCSI-Telly"
-date = 2022-09-18T00:00:00  # Schedule page publish date.
+publishDate = 2022-09-18T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2022-10-13T14:00:00
+date = 2022-10-13T14:00:00
 #time_end = 2022-04-11T19:30:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
