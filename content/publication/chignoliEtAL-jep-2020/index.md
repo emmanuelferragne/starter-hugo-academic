@@ -1,6 +1,6 @@
 +++
 title = "Caractérisation du locuteur par CNN à l’aide des contours d’intensité et d’intonation : comparaison avec le spectrogramme"
-date = 2020-06-06T00:00:00
+publishDate = 2020-06-06T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
