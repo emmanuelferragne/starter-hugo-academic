@@ -1,11 +1,11 @@
 +++
 title = "Automatic classification of phonation types in spontaneous speech: towards a new workflow for the characterization of speakers' voice quality"
-date = 2021-07-12T00:00:00  # Schedule page publish date.
+publishDate = 2021-07-12T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2021-08-30T10:00:00
+date = 2021-08-30T10:00:00
 #time_end = 2019-06-05T15:18:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
