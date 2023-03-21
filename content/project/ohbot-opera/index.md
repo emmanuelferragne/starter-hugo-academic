@@ -3,7 +3,7 @@
 title = "Ohbot Opera"
 
 # Date this page was created.
-date = 2019-01-16T00:00:00
+publishDate = 2019-01-16T00:00:00
 
 # Project summary to display on homepage.
 summary = "The Ohbot Pi - a programmable `robot head` - lip-syncs to opera arias."
