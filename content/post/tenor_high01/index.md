@@ -2,7 +2,7 @@
 title = "Because I got high #1"
 subtitle = "On the upper register of Western operatic tenors."
 
-date = 2019-04-22T00:00:00
+publishDate = 2019-04-22T00:00:00
 lastmod = 2019-04-22T00:00:00
 draft = false
 
