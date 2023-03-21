@@ -3,7 +3,7 @@
 title = "VoxCrim"
 
 # Date this page was created.
-date = 2019-01-30T00:00:00
+publishDate = 2019-01-30T00:00:00
 
 # Project summary to display on homepage.
 summary = "Forensic Voice Comparison"
