@@ -2,7 +2,7 @@
 title = "Données COVID-19"
 subtitle = "Quelques visualisations"
 
-date = 2020-03-25T00:00:00
+publishDate = 2020-03-25T00:00:00
 lastmod = 2020-03-25T00:00:00
 draft = false
 
