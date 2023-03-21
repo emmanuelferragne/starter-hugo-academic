@@ -1,6 +1,6 @@
 +++
 title = "Analyse phonétique de la variation inter-locuteurs au moyen de réseaux de neurones convolutifs : voyelles seules et séquences courtes de parole"
-date = 2022-06-13T00:00:00
+publishDate = 2022-06-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
