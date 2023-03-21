@@ -2,7 +2,7 @@
 title = "Spot the difference"
 subtitle = "Don't blame it on the CSI effect; we too glamourize science!"
 
-date = 2021-01-08T00:00:00
+publishDate = 2021-01-08T00:00:00
 lastmod = 2021-01-08T00:00:00
 draft = false
 
