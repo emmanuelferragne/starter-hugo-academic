@@ -1,11 +1,11 @@
 +++
 title = "Americanized pronunciation in British Pop and Heavy Metal: is T Voicing incidence genre-specific?"
-date = 2022-03-13T00:00:00  # Schedule page publish date.
+publishDate = 2022-03-13T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2022-04-02T09:30:00
+date = 2022-04-02T09:30:00
 #time_end = 2022-04-02T10:15:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
