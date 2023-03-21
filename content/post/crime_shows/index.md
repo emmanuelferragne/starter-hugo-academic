@@ -3,7 +3,7 @@ title = "About crime dramas on French TV"
 subtitle = "Browsing TV listings automatically"
 math = true
 
-date = 2022-02-27T00:00:00
+publishDate = 2022-02-27T00:00:00
 lastmod = 2022-02-27T00:00:00
 draft = false
 
