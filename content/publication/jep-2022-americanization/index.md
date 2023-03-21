@@ -1,6 +1,6 @@
 +++
 title = "Américanisation de la prononciation de l'anglais en voix chantée: le cas des voyelles de TRAP-BATH et LOT"
-date = 2022-06-13T00:00:00
+publishDate = 2022-06-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
