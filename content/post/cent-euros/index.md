@@ -2,7 +2,7 @@
 title = "Cent euros"
 subtitle = "On French liaison"
 
-date = 2020-08-19T00:00:00
+publishDate = 2020-08-19T00:00:00
 lastmod = 2020-08-19T00:00:00
 draft = false
 
