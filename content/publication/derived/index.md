@@ -1,6 +1,6 @@
 +++
 title = "The production and perception of derived phonological contrasts in selected varieties of English"
-date = 2020-08-20T00:00:00
+publishDate = 2020-08-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
