@@ -2,7 +2,7 @@
 title = "ET VOYLA !"
 subtitle = "Software to visualize vowels (Windows 10)."
 
-date = 2019-11-14T00:00:00
+publishDate = 2019-11-14T00:00:00
 lastmod = 2019-11-14T00:00:00
 draft = false
 
