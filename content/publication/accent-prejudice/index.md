@@ -1,6 +1,6 @@
 +++
 title = "The N400 reveals implicit accent-induced prejudice"
-date = 2021-10-20T00:00:00
+publishDate = 2021-10-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
