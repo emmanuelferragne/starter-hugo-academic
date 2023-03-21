@@ -1,11 +1,11 @@
 +++
 title = "Retour d’expérience sur le projet Solutions pour l’Enseignement de la Phonétique Appliquée aux Langues Etrangères (SEPALE)"
-date = 2021-10-26T00:00:00  # Schedule page publish date.
+publishDate = 2021-10-26T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2021-11-19T11:50:00
+date = 2021-11-19T11:50:00
 #time_end = 2019-06-05T15:18:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
