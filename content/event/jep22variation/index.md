@@ -1,11 +1,11 @@
 +++
 title = "Analyse phonétique de la variation inter-locuteurs au moyen de réseaux de neurones convolutifs : voyelles seules et séquences courtes de parole"
-date = 2022-05-18T00:00:00  # Schedule page publish date.
+publishDate = 2022-05-18T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2022-06-16T16:00:00
+date = 2022-06-16T16:00:00
 #time_end = 2019-06-05T15:18:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
