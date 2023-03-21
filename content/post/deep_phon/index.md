@@ -2,7 +2,7 @@
 title = "Here in my deep purple dreams"
 subtitle = "On the deep learning approach to phonetics: black boxes?"
 
-date = 2019-07-22T00:00:00
+publishDate = 2019-07-22T00:00:00
 lastmod = 2019-07-22T00:00:00
 draft = false
 
