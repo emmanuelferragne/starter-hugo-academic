@@ -2,7 +2,7 @@
 title = "In Birming[hæm] they love the governor"
 subtitle = "The pronunciation of place names."
 
-date = 2018-02-16T00:00:00
+publishDate = 2018-02-16T00:00:00
 lastmod = 2018-02-26T00:00:00
 draft = false
 
