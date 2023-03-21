@@ -2,7 +2,7 @@
 title = "Say my name, say my name..."
 subtitle = "Some musicians' names with counterintuitive pronunciations."
 
-date = 2020-01-04T00:00:00
+publishDate = 2020-01-04T00:00:00
 lastmod = 2020-01-04T00:00:00
 draft = false
 
