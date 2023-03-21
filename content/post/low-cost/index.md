@@ -2,7 +2,7 @@
 title = "[lokost]"
 subtitle = "The pronunciation of English loanwords in French."
 
-date = 2019-04-02T00:00:00
+publishDate = 2019-04-02T00:00:00
 lastmod = 2019-02-04T00:00:00
 draft = false
 
