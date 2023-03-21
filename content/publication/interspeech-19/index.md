@@ -1,6 +1,6 @@
 +++
 title = "The contribution of lip protrusion to Anglo-English /r/: Evidence from hyper- and non-hyperarticulated speech"
-date = 2019-09-18T00:00:00
+publishDate = 2019-09-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
