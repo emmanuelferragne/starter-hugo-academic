@@ -1,11 +1,11 @@
 +++
 title = "The contribution of lip protrusion to Anglo-English /r/: Evidence from hyper- and non-hyperarticulated speech"
-date = 2019-07-26T00:00:00  # Schedule page publish date.
+publishDate = 2019-07-26T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-09-18T13:30:00
+date = 2019-09-18T13:30:00
 #time_end = 2019-06-05T15:18:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
