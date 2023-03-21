@@ -1,6 +1,6 @@
 +++
 title = "The perception of swear words by French learners of English: an experiment involving electrodermal activity"
-date = 2019-11-20T00:00:00
+publishDate = 2019-11-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
