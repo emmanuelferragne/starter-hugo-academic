@@ -2,7 +2,7 @@
 title = "Ten years after"
 subtitle = "Palatable leftovers from my PhD."
 
-date = 2019-06-10T00:00:00
+publishDate = 2019-06-10T00:00:00
 lastmod = 2019-06-10T00:00:00
 draft = false
 
