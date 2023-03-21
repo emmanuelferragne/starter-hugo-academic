@@ -1,6 +1,6 @@
 +++
 title = "Loose lips and tongue tips: The central role of the /r/-typical labial gesture in Anglo-English"
-date = 2020-04-21T00:00:00
+publishDate = 2020-04-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
