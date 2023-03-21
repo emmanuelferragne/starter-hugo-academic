@@ -2,7 +2,7 @@
 title = "Ridi, Pagliaccio !"
 subtitle = "Neural style transfer for videos."
 
-date = 2019-12-04T00:00:00
+publishDate = 2019-12-04T00:00:00
 lastmod = 2019-12-04T00:00:00
 draft = false
 
