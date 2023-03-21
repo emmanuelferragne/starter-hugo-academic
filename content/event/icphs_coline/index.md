@@ -1,11 +1,11 @@
 +++
 title = "The sociophonetics of British heavy metal music: T Voicing and the FOOT-STRUT split"
-date = 2019-02-13T00:00:00  # Schedule page publish date.
+publishDate = 2019-02-13T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-08-05T10:00:00
+date = 2019-08-05T10:00:00
 #time_end = 2019-06-05T15:18:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
