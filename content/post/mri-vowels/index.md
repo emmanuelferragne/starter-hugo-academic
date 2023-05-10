@@ -10,7 +10,6 @@ draft = false
 authors = ["Admin"]
 
 tags = ["Phonetics"]
-summary = "Ohbot sings Queen song"
 [image]
   # Caption (optional)
   #caption = "Photo by Vlah Dumitru on Unsplash"
