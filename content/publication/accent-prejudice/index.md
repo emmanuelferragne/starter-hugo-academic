@@ -26,7 +26,7 @@ abstract = "Our perception of someone's accent influences our expectations about
 #abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
