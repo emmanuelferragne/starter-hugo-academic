@@ -25,7 +25,7 @@ publication_short = "JEP"
 abstract = "À travers le prisme pluridisciplinaire de la phonétique, du traitement du signal et des études visuelles, et sous l’œil des experts de la police scientifique, nous avons analysé plus d’une centaine de scènes de séries américaines impliquant une expertise du signal audio et, en particulier, de la voix. Nous tentons d’identifier des schémas récurrents qui contribuent à entretenir certains mythes liés à l’identification d’un individu par sa voix. Nous évaluons le degré de plausibilité de certains extraits et proposons les prémisses d’une esthétique de l’expertise vocale. Nous souhaitons ainsi mieux comprendre comment le grand public se représente les applications criminalistiques des sciences de la parole et espérons, en confrontant la fiction à la réalité, faire passer un message pédagogique à destination non seulement des téléspectateurs, mais également des professionnels de la police et de la justice."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
