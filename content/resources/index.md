@@ -22,6 +22,8 @@ __Want to learn more about these hot topics? Don't hesitate to send me an email.
 
 Never miss important updates: <a href="https://twitter.com/fonetics_n_more?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @fonetics_n_more</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+__!!! Our M1 students are no longer required to produce a thesis at the end of the year. The M1 thesis has been replaced by a "research paper"; I'll share official templates ASAP. The guidelines below still apply to M2 students !!!__
+
 {{% staticref "uploads/guideMiseEnFormeV02.pdf" "newtab" %}}My short style guide for Master's theses in English studies at Université Paris Cité.{{% /staticref %}}
 Examples of very good Master's theses in English linguistics at Université Paris Cité are available [here](https://cloud.parisdescartes.fr/index.php/s/CS2x4afK2rACPoj).
 
