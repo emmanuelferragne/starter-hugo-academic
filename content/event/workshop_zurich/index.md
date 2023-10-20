@@ -1,5 +1,5 @@
 +++
-title = "French students of English: what automatic methods and our perception tell us about their accents."
+title = "French students of English: what automatic methods and our perception tell us about their accents"
 publishDate = 2023-10-20T00:00:00# Schedule page publish date.
 draft = false
 
