@@ -1,11 +1,11 @@
 +++
 title = "Quelques éléments sur l'expertise vocale en criminalistique "
-date = 2023-05-23T10:00:00  # Schedule page publish date.
+publishDate = 2023-05-23T10:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2023-05-26T10:00:00
+date = 2023-05-26T14:00:00
 #time_end = 2020-12-02T12:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
