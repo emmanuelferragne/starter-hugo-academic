@@ -22,11 +22,22 @@ __Want to learn more about these hot topics? Don't hesitate to send me an email.
 
 Never miss important updates: <a href="https://twitter.com/fonetics_n_more?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @fonetics_n_more</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-__!!! Our M1 students are no longer required to produce a thesis at the end of the year. The M1 thesis has been replaced by a "research paper"; I'll share official templates ASAP. The guidelines below still apply to M2 students !!!__
+## Official Latex templates for M1 research paper and M2 thesis in English linguistics:
 
-{{% staticref "uploads/guideMiseEnFormeV02.pdf" "newtab" %}}My short style guide for Master's theses in English studies at Université Paris Cité.{{% /staticref %}}
+In order to use them, create a [free Overleaf account](https://fr.overleaf.com/), open the relevant link below, click on "back to your projects" (the little house); then under "Actions", copy the project, rename it, and then you can edit the source file (left panel in the Overleaf interface) directly.   
+
+__M1 template__ 
+
+https://fr.overleaf.com/read/yhkgpvzrspgp
+
+__M2 template__
+
+https://fr.overleaf.com/read/wpgbkbgmfgcw
+
+
+{{% staticref "uploads/guideMiseEnFormeV02.pdf" "newtab" %}}My short style guide for M2 theses in English studies at Université Paris Cité.{{% /staticref %}}
 Examples of very good Master's theses in English linguistics at Université Paris Cité are available [here](https://cloud.parisdescartes.fr/index.php/s/CS2x4afK2rACPoj).
 
-{{% staticref "uploads/memoirthesis.pdf" "newtab" %}}This is the output {{% /staticref %}} you get with our Latex template. By far the easiest way to start writing your own thesis is to create a [free Overleaf account](https://fr.overleaf.com/) and copy [this project](https://fr.overleaf.com/read/wpgbkbgmfgcw). Open this link, click on "back to your projects" (the little house); then under "Actions", copy the project, rename it, and then you can edit the relevant parts.  
+{{% staticref "uploads/memoirthesis.pdf" "newtab" %}}This is the output {{% /staticref %}} you get with our Latex template for the M2 thesis.
 
 {{% staticref "uploads/guideThese.pdf" "newtab" %}}See my quick FAQ in French{{% /staticref %}} if you are interested in a Phd and feel free to send me an email.
