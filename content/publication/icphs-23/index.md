@@ -26,7 +26,7 @@ abstract = "English /r/ takes different tongue shapes from one speaker to anothe
 #abstract_short = "Like every late L2 - learner, French native speakers are characterized by a foreign accent. The literature emphasizes that the vowels / ɪ /, / ʌ / and / æ / in particular are pronounced ''à la française''."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
