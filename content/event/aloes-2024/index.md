@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date = 2024-
+date = 2024-03-30T11:30:00
 #time_start = 2022-04-02T09:30:00
 #time_end = 2022-04-02T10:15:00
 
