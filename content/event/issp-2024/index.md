@@ -1,6 +1,6 @@
 +++
 title = "Phonetic accuracy in French learners of English: towards a bilingual database combining articulatory MRI and audio"
-publishDate = 2024-04-15T00:00:00  # Schedule page publish date.
+publishDate = 2024-03-29T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
