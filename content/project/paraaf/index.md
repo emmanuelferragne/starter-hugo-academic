@@ -49,4 +49,4 @@ slides = ""
 - **Years**: Sept - Dec 2024
 - **P.I.**: Emmanuel Ferragne
 - **Team**: Anne Guyot Talbot, Hannah King, Sylvain Navarro, Maud Pélissier, Franck Zumstein
-- **Students**: Margaux Cecchini, Fiona Hashemi, Romane Moreau
+- **Students**: Margaux Cecchini, Fiona Hashemi, Romane Moreau, Junwen Shen
