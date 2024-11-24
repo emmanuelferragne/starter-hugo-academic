@@ -1,7 +1,7 @@
 +++
 #title = "Students"
 
-date = 2023-03-25T00:00:00
+date = 2024-11-24T00:00:00
 
 draft = false  # Is this a draft? true/false
 toc = false  # Show table of contents? true/false
@@ -12,11 +12,11 @@ type = "docs"  # Do not modify.
 +++
 
 
-## Prospective students (2023-2024)
+## Prospective students (2025-2026)
 
-I supervise master or PhD research work in the field of experimental phonetics (e.g. accent stereotypes, the pronunciation of English for French students, etc.). 
+Planning to enroll in a exciting __master's programme__ in English linguistics and to do research in __phonetics__? Look no further! Choose a research topic [here](../topics), check out [this page](https://u-paris.fr/etudes-anglophones/en/m1-m2-in-llcer-specialization-in-english-and-american-studies-english-linguistics/), and apply [here](https://candidature.monmaster.gouv.fr/).
 
-__Want to learn more about these hot topics? Don't hesitate to send me an email.__
+__Want to learn more about these hot topics? Don't hesitate to [send me an email](mailto:emmanuel.ferragne@u-paris.fr).__
 
 ## Useful links
 
@@ -40,4 +40,4 @@ Examples of very good Master's theses in English linguistics at Université Pari
 
 {{% staticref "uploads/memoirthesis.pdf" "newtab" %}}This is the output {{% /staticref %}} you get with our Latex template for the M2 thesis.
 
-{{% staticref "uploads/guideThese.pdf" "newtab" %}}See my quick FAQ in French{{% /staticref %}} if you are interested in a Phd and feel free to send me an email.
+{{% staticref "uploads/guideThese.pdf" "newtab" %}}See my quick FAQ in French{{% /staticref %}} if you are interested in a Phd and feel free to [send me an email](mailto:emmanuel.ferragne@u-paris.fr).
