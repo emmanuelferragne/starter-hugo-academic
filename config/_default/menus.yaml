@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
-  - name: Resources
+  - name: Resources for PhD and masters students
     url: 'resources/'
     weight: 100
 
