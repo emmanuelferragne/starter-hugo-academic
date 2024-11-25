@@ -14,7 +14,7 @@ type = "docs"  # Do not modify.
 
 ## Prospective students (2025-2026)
 
-Planning to enroll in a exciting __master's programme__ in English linguistics and to do research in __phonetics__? Look no further! Choose a research topic [here](../topics), check out [this page](https://u-paris.fr/etudes-anglophones/en/m1-m2-in-llcer-specialization-in-english-and-american-studies-english-linguistics/), and apply [here](https://candidature.monmaster.gouv.fr/). Early applications(before Jan. 17, 2025) with scholarships are available for international students [here](https://mobility.smarts-up.fr/).
+Planning to enroll in a exciting __master's programme__ in English linguistics and to do research in __phonetics__? Look no further! Choose a research topic [here](../topics), check out [this page](https://u-paris.fr/etudes-anglophones/en/m1-m2-in-llcer-specialization-in-english-and-american-studies-english-linguistics/), and apply [here](https://candidature.monmaster.gouv.fr/). Early applications (before Jan. 17, 2025) with scholarships are available for international students [here](https://mobility.smarts-up.fr/).
 
 __Want to learn more about these hot topics? Don't hesitate to [send me an email](mailto:emmanuel.ferragne@u-paris.fr).__
 
