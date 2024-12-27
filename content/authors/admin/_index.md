@@ -36,12 +36,12 @@ social:
     display:
       header: true
 organizations:
-  - name: Université Paris Cité
+  - name: Deputy head of ALTAE
+    url: https://clillac-arp.u-paris.fr/
+  - name: Works at Université Paris Cité
     url: https://u-paris.fr/
   - name: Institut Universitaire de France (IUF)
     url: https://www.iufrance.fr/les-membres-de-liuf/membre/389-emmanuel-ferragne.html
-  - name: Laboratoire CLILLAC-ARP
-    url: https://u-paris.fr/eila/en/clillac-arp-en/
   - name: Labex Empirical Foundations of Linguistics (EFL)
     url: https://en.labex-efl.fr/
 #education:
@@ -65,4 +65,4 @@ title: Emmanuel Ferragne
 first_name: Emmanuel
 email: "emmanuel.ferragne@u-paris.fr"
 ---
-I am a (full) professor of phonetics in the English Studies department at Université Paris Cité. 
+I am a full professor of phonetics in the English Studies department at Université Paris Cité.
