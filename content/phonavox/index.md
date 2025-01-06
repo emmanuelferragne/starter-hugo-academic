@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 
 __Nous proposons principalement 2 services :__ 
 - la formation personnalisée à la prononciation de l'anglais en entreprise
-- l'expertise scientifique d'enregitrements audio de voix humaines
+- l'expertise scientifique d'enregistrements audio de voix humaines
 
 
 Pour toute question ou demande de devis, n'hésitez pas à nous [envoyer un courrier électronique](mailto:emmanuel.ferragne@u-paris.fr).
