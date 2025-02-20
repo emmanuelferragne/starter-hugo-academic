@@ -1,11 +1,12 @@
 +++
 title = "[ɹ], [w] or [ʁ]: Investigating French advanced learners' productions of English /r/"
-date = 2025-05-22T15:10:00  # Schedule page publish date.
+date = 2025-05-22T15:10:00
+publishDate = 2025-02-19T15:10:00
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-11-08T10:30:00
+#time_start = 2019-11-08T10:30:00
 #time_end = 2019-06-05T15:18:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
