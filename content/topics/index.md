@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 
 +++
-I'll supervise the following projects for 2025-2026. For more info, please [send me an email](mailto:emmanuel.ferragne@u-paris.fr). 
+I'll supervise the following projects for 2026-2027. For more info, please [send me an email](mailto:emmanuel.ferragne@u-paris.fr). 
 
 ## TOPIC 1: __One speaker, two languages, two voices: forensic phonetics and bilingualism__
 Our everyday experience suggests that when a speaker switches languages, his or her voice changes too. This effect is generally attributable to two phenomena: first, the phonemes of the two languages require specific articulations leading to different “average configurations” of the vocal tract, known as articulatory settings. And in addition to these language-specific articulatory settings, the quality as well as the frequency of vocal fold vibration may be affected. For instance, a bilingual speaker may speak with a higher-pitched voice in his or her native language. Very few research articles have examined the impact of such changes on automatic speaker recognition systems or on people’s perceptual ability to recognize someone’s voice. The aim of this project, in collaboration with the forensic department of the French Police Nationale, is to precisely measure how code switching affects the  performance of computers or ear witnesses in a speaker recognition task, and to pinpoint the phonetic parameters that underlie these performance fluctuations. 
