@@ -12,15 +12,11 @@ type = "docs"  # Do not modify.
 +++
 
 
-## Prospective students (2025-2026)
+## Prospective students (2026-2027)
 
-Planning to enroll in a exciting __master's programme__ in English linguistics and to do research in __phonetics__? Look no further! Choose a research topic [here](../topics), check out [this page](https://u-paris.fr/etudes-anglophones/en/m1-m2-in-llcer-specialization-in-english-and-american-studies-english-linguistics/), and apply [here](https://candidature.monmaster.gouv.fr/). Early applications (before Jan. 17, 2025) with scholarships are available for international students [here](https://mobility.smarts-up.fr/).
+Planning to enroll in a exciting __master's programme__ in English linguistics and to do research in __phonetics__? Look no further! Choose a research topic [here](../topics), check out [this page](https://u-paris.fr/etudes-anglophones/en/m1-m2-in-llcer-specialization-in-english-and-american-studies-english-linguistics/), and apply [here](https://candidature.monmaster.gouv.fr/). Early applications (before Jan. 16, 2026) with scholarships are available for international students [here](https://mobility.smarts-up.fr/).
 
 __Want to learn more about these hot topics? Don't hesitate to [send me an email](mailto:emmanuel.ferragne@u-paris.fr).__
-
-## Useful links
-
-Never miss important updates: <a href="https://twitter.com/fonetics_n_more?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @fonetics_n_more</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Official Latex templates for M1 research paper and M2 thesis in English linguistics:
 
