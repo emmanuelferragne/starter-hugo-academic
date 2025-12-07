@@ -42,8 +42,8 @@ organizations:
     url: https://u-paris.fr/
   - name: Institut Universitaire de France (IUF)
     url: https://www.iufrance.fr/les-membres-de-liuf/membre/389-emmanuel-ferragne.html
-  - name: Labex Empirical Foundations of Linguistics (EFL)
-    url: https://en.labex-efl.fr/
+  - name: inIdEx Empirical Foundations of Linguistics (EFL)
+    url: https://efl.u-pariscite.fr/
 #education:
 #  courses:
 #    - course: PhD in Artificial Intelligence
