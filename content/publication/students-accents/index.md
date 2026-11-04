@@ -26,7 +26,7 @@ abstract = "Acquiring a consistent accent and targeting a native-standard-like R
 abstract_short = "two thirds of our students favour an American, and the remaining third, a British pronunciation, although most of them have mixed features from the two accents."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
