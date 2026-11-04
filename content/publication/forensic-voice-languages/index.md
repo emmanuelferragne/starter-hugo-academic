@@ -26,7 +26,7 @@ abstract = "People’s perception of forensic evidence is greatly influenced by 
 abstract_short = "biased representations of forensic voice analysis in TV series have led to a situation where, one of the main challenges faced by forensic voice specialists is to convince trial jurors, judges, lawyers, and police officers that forensic voice comparison can by no means give the sort of straightforward answers that fingerprints or DNA permit."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
